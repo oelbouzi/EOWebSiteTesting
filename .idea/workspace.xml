@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82f0ef7f-d3f9-4329-b0f3-5a5b8f00d55b" name="Default" comment="" />
+    <list default="true" id="82f0ef7f-d3f9-4329-b0f3-5a5b8f00d55b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\camera.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\form.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\grid.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\superfish.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\touchTouch.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\camera-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\footer_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\link_marker.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\pagination.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\soc1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\socials.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\totop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\PIE.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\camera.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\forms.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery-migrate-1.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.color.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.equalheights.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.mobile.customized.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.ui.totop.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\superfish.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\tms-0.4.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\touchTouch.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\camera.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\form.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\grid.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\superfish.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\touchTouch.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\camera-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\footer_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\link_marker.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\pagination.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\soc1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\socials.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\totop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\PIE.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\camera.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\forms.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery-migrate-1.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.color.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.equalheights.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.mobile.customized.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.ui.totop.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\superfish.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\tms-0.4.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\touchTouch.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EOwebTesting.iml" afterPath="$PROJECT_DIR$/EOwebTesting.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/EOwebTesting_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/EOwebTesting_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="EOwebTesting.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,32 +135,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gegogo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1432283080379" expanded="true" signature="2965:3017" placeholder="..." />
-                <marker date="1432283080379" expanded="true" signature="3018:3410" placeholder="..." />
-                <marker date="1432283080379" expanded="true" signature="3137:3399" placeholder="..." />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.34593022">
+              <caret line="354" column="17" selection-start-line="354" selection-start-column="17" selection-end-line="354" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Resources/mytheme/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.103448">
+              <caret line="1212" column="19" selection-start-line="1212" selection-start-column="19" selection-end-line="1212" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -58,7 +199,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/GegogoTesting.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/Gegogo.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java" />
+        <option value="$PROJECT_DIR$/web/Gegogo.jsp" />
+        <option value="$PROJECT_DIR$/web/Resources/mytheme/css/Login.css" />
+        <option value="$PROJECT_DIR$/web/Resources/mytheme/css/Singin.less" />
+        <option value="$PROJECT_DIR$/web/Resources/mytheme/css/styles.css" />
+        <option value="$PROJECT_DIR$/web/index.html" />
       </list>
     </option>
   </component>
@@ -77,10 +229,65 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1358" />
-    <option name="y" value="-290" />
-    <option name="width" value="1696" />
-    <option name="height" value="1066" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidAtRule</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -105,14 +312,44 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Problems">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Tests" />
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="EOwebTesting" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -161,25 +398,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EOwebTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EOwebTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EOwebTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EOwebTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eowebtesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EOwebTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EOwebTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.index.jsp">
-    <configuration default="false" name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.0.22" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+  <component name="RunManager" selected="Tomcat Server.index.html">
+    <configuration default="false" name="Gegogo.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.0.22" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gegogo.jsp" />
       <deployment>
         <artifact name="EOwebTesting:war exploded">
           <settings>
@@ -188,7 +490,100 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index_jsp_EOwebTesting" />
+        <option name="BASE_DIRECTORY_NAME" value="Gegogo_jsp_EOwebTesting" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62633" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EOwebTesting:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="All in EOwebTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="EOwebTesting" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.0.22" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.html" />
+      <deployment>
+        <artifact name="EOwebTesting:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="index_html_EOwebTesting" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -216,9 +611,6 @@
           <artifact name="EOwebTesting:war exploded" />
         </option>
       </method>
-    </configuration>
-    <configuration default="false" name="index.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/index.jsp">
-      <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
@@ -480,68 +872,85 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.index.jsp" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Gegogo.jsp" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in EOwebTesting" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.index.html" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.index.jsp" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Gegogo.jsp" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in EOwebTesting" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="82f0ef7f-d3f9-4329-b0f3-5a5b8f00d55b" name="Default" comment="" />
       <created>1432228630391</created>
       <option name="number" value="Default" />
       <updated>1432228630391</updated>
-      <workItem from="1432228635603" duration="5705000" />
+      <workItem from="1432228635603" duration="14779000" />
+      <workItem from="1432306163282" duration="3110000" />
+      <workItem from="1432379445903" duration="16876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5705000" />
+    <option name="totallyTimeSpent" value="34765000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-290" width="1696" height="1066" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.43338212" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.5783309" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.4216691" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.50623053" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.49761903" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -549,40 +958,108 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/Resources/mytheme/css/style.css">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9835467">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Resources/mytheme/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1432283080379" expanded="true" signature="2965:3017" placeholder="..." />
-            <marker date="1432283080379" expanded="true" signature="3018:3410" placeholder="..." />
-            <marker date="1432283080379" expanded="true" signature="3137:3399" placeholder="..." />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EOwebTesting.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8393162">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../selenium-server-standalone-2.45.0.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3475298">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Resources/mytheme/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.103448">
+          <caret line="1212" column="19" selection-start-line="1212" selection-start-column="19" selection-end-line="1212" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34593022">
+          <caret line="354" column="17" selection-start-line="354" selection-start-column="17" selection-end-line="354" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +1122,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
