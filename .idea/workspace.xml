@@ -2,117 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f0ef7f-d3f9-4329-b0f3-5a5b8f00d55b" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\Login.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\camera.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\form.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\grid.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\lessc.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\superfish.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\css\touchTouch.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box1_img4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\box_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\camera-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\footer_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\link_marker.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\logo8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\pagination.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\soc1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\socials.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\images\totop.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\PIE.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\camera.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\forms.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery-migrate-1.1.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.color.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.equalheights.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.mobile.customized.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\jquery.ui.totop.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\superfish.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\tms-0.4.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\Resources\mytheme\js\touchTouch.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\out\artifacts\EOwebTesting_war_exploded\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\Login.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\camera.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\form.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\grid.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\lessc.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\superfish.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\touchTouch.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box1_img4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\box_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\camera-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\footer_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\link_marker.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\logo8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\pagination.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\soc1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\socials.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\images\totop.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\PIE.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\camera.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\forms.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery-migrate-1.1.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.color.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.equalheights.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.mobile.customized.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.ui.totop.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\superfish.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\tms-0.4.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\touchTouch.jquery.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/EOwebTesting_war_exploded/index.html" afterPath="$PROJECT_DIR$/out/artifacts/EOwebTesting_war_exploded/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/EOwebTesting_war_exploded/Resources/mytheme/css/styles.css" afterPath="$PROJECT_DIR$/out/artifacts/EOwebTesting_war_exploded/Resources/mytheme/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/Resources/mytheme/css/styles.css" afterPath="$PROJECT_DIR$/web/Resources/mytheme/css/styles.css" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\animate.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\flickity.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\queries.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\css\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\01-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\02-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\03-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\04-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\05-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\06-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\07-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\08-screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\avatar@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\bg_play_pause.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\codrops-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\codrops-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\cross.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\device-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\device-content-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\feature-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\feature-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\feature-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\features-intro-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\features-intro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\grid.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\hero-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\html5-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\html5-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\iphone-skeleton.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\large\08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\logo-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\logo-blue@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\logo-white@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\quote-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\screen1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\screen2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\screen3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\showcase-bg-fixed-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\showcase-bg-fixed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\img\showcase-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\flickity.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\min\scripts-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\min\toucheffects-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\retina.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\toucheffects.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\Resources\mytheme\js\waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\oussama.elbouzi\Desktop\EO Projects\EOwebTesting\web\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EOwebTesting.iws" />
@@ -146,24 +113,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gegogo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-0.6604317">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.html">
+      <file leaf-file-name="Gegogo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5660661">
-              <caret line="368" column="72" selection-start-line="368" selection-start-column="72" selection-end-line="368" selection-end-column="72" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,6 +182,13 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -377,28 +351,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytheme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EOwebTesting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EOwebTesting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -443,6 +395,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="pom.x&#9;FILE&#9;jar://C:/Users/oussama.elbouzi/Desktop/EO Projects/selenium-server-standalone-2.45.0.jar!/META-INF/maven/com.beust/jcommander/pom.xml&#10;pom.xml&#9;null&#9;null" />
   </component>
   <component name="RunManager" selected="Tomcat Server.index.html">
     <configuration default="false" name="Gegogo.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.0.22" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
@@ -877,12 +830,12 @@
       <updated>1432228630391</updated>
       <workItem from="1432228635603" duration="14779000" />
       <workItem from="1432306163282" duration="3110000" />
-      <workItem from="1432379445903" duration="20976000" />
+      <workItem from="1432379445903" duration="23177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38865000" />
+    <option name="totallyTimeSpent" value="41066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-290" width="1696" height="1066" extended-state="7" />
@@ -900,7 +853,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21816283" sideWeight="0.4220238" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2029762" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15892857" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.50623053" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1009,6 +962,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../selenium-server-standalone-2.45.0.jar!/META-INF/maven/com.beust/jcommander/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3772538">
+          <caret line="130" column="54" selection-start-line="130" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1017,20 +988,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/eowebtesting/Gegogo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5660661">
-          <caret line="368" column="72" selection-start-line="368" selection-start-column="72" selection-end-line="368" selection-end-column="72" />
+        <state vertical-scroll-proportion="-0.6604317">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
