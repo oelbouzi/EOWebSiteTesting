@@ -22,17 +22,19 @@ public class Gegogo extends HttpServlet {
     // Get a web page
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws javax.servlet.ServletException, IOException {
 
-        request.setAttribute("heure", "jour");
-        this.getServletContext().getRequestDispatcher("/Gegogo.jsp").forward(request, response);
+        response.setContentType("text/html");
+        PrintWriter out = response.getWriter();
 
+// On récupère le nom passé en paramètre dans l'URL
+        String nomSaisi = request.getParameter("nom");
+        out.println("");
 
+        if (nomSaisi == null)
+            out.println("Il manque le paramètre nom!");
+        else
+            out.println("Bonjour " + nomSaisi + "!");
 
-        //response.setContentType("text/html");
-        //String var = "Mok ya mok";
-        //request.setAttribute("mouuk",var);
+        out.println("");
 
-        //this.getServletContext().getRequestDispatcher("/Gegogo.jsp").forward(request, response);
-
-
-    }
+     }
 }
