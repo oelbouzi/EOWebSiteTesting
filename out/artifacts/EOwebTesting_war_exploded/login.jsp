@@ -36,10 +36,11 @@
         <strong>Erreur : </strong>
         <%
           } %>
-        <form method="post" class="form" >
+        <form method="post" action="Home.jsp" class="form" >
           <input name="login" type="text" placeholder="Username">
           <input name="password" type="password" placeholder="Password">
-          <button name="Valider" type="submit" id="login-button">Login</button>
+          <button type="submit" name="Valider" >Login</button>
+          <!-- id="login-button" -->
         </form>
       </div>
 

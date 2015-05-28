@@ -15,7 +15,14 @@ public class Login extends HttpServlet {
 
     private static final long serialVersionUID = 1L;
 
+
+
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+    }
+
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
         // Récupérer les données reçues du formulaire
         String loginEntered = (String) request.getParameter("login");
         String passwordEntered = (String) request.getParameter("password");
@@ -24,7 +31,7 @@ public class Login extends HttpServlet {
         if ("".equals(loginEntered) || "".equals(passwordEntered)) {
             request.setAttribute("erreur", "Vous devez remplir les deux champs.");
             // Redirection vers le formulaire form.jsp
-            getServletContext().getRequestDispatcher("/login.jsp")
+            getServletContext().getRequestDispatcher("/Home.jsp")
                     .forward(request, response);
         }
 
@@ -33,12 +40,8 @@ public class Login extends HttpServlet {
             request.setAttribute("login", loginEntered);
             request.setAttribute("password", passwordEntered);
             // Redirection vers la page hello.jsp
-            getServletContext().getRequestDispatcher("/hello.jsp")
+            getServletContext().getRequestDispatcher("/Home.jsp")
                     .forward(request, response);
         }
-    }
-
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
     }
 }
