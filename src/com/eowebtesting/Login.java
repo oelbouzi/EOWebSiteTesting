@@ -1,5 +1,6 @@
 package com.eowebtesting;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -31,7 +32,7 @@ public class Login extends HttpServlet {
         if ("".equals(loginEntered) || "".equals(passwordEntered)) {
             request.setAttribute("erreur", "Vous devez remplir les deux champs.");
             // Redirection vers le formulaire form.jsp
-            getServletContext().getRequestDispatcher("/Home.jsp")
+            getServletContext().getRequestDispatcher("/login.jsp")
                     .forward(request, response);
         }
 
@@ -39,9 +40,10 @@ public class Login extends HttpServlet {
         else {
             request.setAttribute("login", loginEntered);
             request.setAttribute("password", passwordEntered);
-            // Redirection vers la page hello.jsp
+            // Redirection vers la page Home.jsp
             getServletContext().getRequestDispatcher("/Home.jsp")
                     .forward(request, response);
         }
     }
+
 }

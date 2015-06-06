@@ -16,13 +16,13 @@
 
 </head>
 <body>
-<%
-  String login = (String) request.getAttribute("login");
-  String password = (String) request.getAttribute("password");
-%>
+<p>Registering <%= request.getParameter("nom")%> ;
+  <%= request.getParameter("prenom") %></p>
+<p>Registering <%= request.getAttribute("nom")%> ;
+  <%= request.getAttribute("prenom") %></p>
 
 
 <h2>Bonjour  !</h2>
-<p>  Vous avez tapé le mot de passe : ${password}</p>
+
 </body>
 </html>
