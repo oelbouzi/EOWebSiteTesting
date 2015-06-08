@@ -27,7 +27,7 @@ header i {
 body {
   font-family: 'Source Sans Pro', sans-serif;
   color: white;
-  background: rgb(40, 70, 102) url('../img/device-bg.jpg') no-repeat center center;
+  background: rgb(40, 70, 102) url('../img/back-ground.jpg.jpg') no-repeat center center;
   font-weight: 300;
 }
 body ::-webkit-input-placeholder {
@@ -256,6 +256,7 @@ form button:hover {
             transform: translateY(-700px) rotate(600deg);
   }
 }
+
 
 /* ==========================================================================
 Hero

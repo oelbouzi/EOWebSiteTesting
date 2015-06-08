@@ -7,6 +7,15 @@
         <session-timeout>1</session-timeout>
     </session-config>
 
+    <servlet>
+        <servlet-name>Signup</servlet-name>
+        <servlet-class>com.eowebtesting.Signup</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Signup</servlet-name>
+        <url-pattern>/Signup</url-pattern>
+    </servlet-mapping>
 
     <servlet>
         <servlet-name>Gegogo</servlet-name>

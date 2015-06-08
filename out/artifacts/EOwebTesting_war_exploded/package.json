@@ -1,0 +1,34 @@
+{
+  "name": "eowebtesting",
+  "version": "0.0.0",
+  "description": "Web App to test websites",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oelbouzi/EOWebSiteTesting.git"
+  },
+  "keywords": [
+    "Angular",
+    "Java",
+    "EE",
+    "Json"
+  ],
+  "author": "Oussama Elbouzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oelbouzi/EOWebSiteTesting/issues"
+  },
+  "homepage": "https://github.com/oelbouzi/EOWebSiteTesting#readme",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "generator-angular": "^0.11.1",
+    "generator-karma": "^1.0.0",
+    "grunt": "^0.4.5",
+    "mongodb": "^2.0.33",
+    "mongoose": "^4.0.5",
+    "yo": "^1.4.7"
+  }
+}
