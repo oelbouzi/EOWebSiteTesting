@@ -11,39 +11,53 @@ import java.io.IOException;
 /**
  * Created by oussama.elbouzi on 27/05/2015.
  */
-@WebServlet(name = "Login")
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.eowebtesting.beans.User;
+import com.eowebtesting.forms.ConnexionForm;
+
 public class Login extends HttpServlet {
+    public static final String ATT_USER         = "utilisateur";
+    public static final String ATT_FORM         = "form";
+    public static final String ATT_SESSION_USER = "sessionUtilisateur";
+    public static final String VUE              = "/WEB-INF/login.jsp";
 
-    private static final long serialVersionUID = 1L;
-
-
-
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
+    public void doGet( HttpServletRequest request, HttpServletResponse response ) throws ServletException, IOException {
+        /* Affichage de la page de connexion */
+        this.getServletContext().getRequestDispatcher( VUE ).forward( request, response );
     }
 
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    public void doPost( HttpServletRequest request, HttpServletResponse response ) throws ServletException, IOException {
+        /* Préparation de l'objet formulaire */
+        ConnexionForm form = new ConnexionForm();
 
-        // Récupérer les données reçues du formulaire
-        String loginEntered = (String) request.getParameter("login");
-        String passwordEntered = (String) request.getParameter("password");
+        /* Traitement de la requête et récupération du bean en résultant */
+        User utilisateur = form.connecterUtilisateur( request );
 
-        // Si l'un des champs est vide
-        if ("".equals(loginEntered) || "".equals(passwordEntered)) {
-            request.setAttribute("erreur", "Vous devez remplir les deux champs.");
-            // Redirection vers le formulaire form.jsp
-            getServletContext().getRequestDispatcher("/login.jsp")
-                    .forward(request, response);
+        /* Récupération de la session depuis la requête */
+        HttpSession session = request.getSession();
+
+        /**
+         * Si aucune erreur de validation n'a eu lieu, alors ajout du bean
+         * Utilisateur à la session, sinon suppression du bean de la session.
+         */
+        if ( form.getErreurs().isEmpty() ) {
+            session.setAttribute( ATT_SESSION_USER, utilisateur );
+        } else {
+            session.setAttribute( ATT_SESSION_USER, null );
         }
 
-        // Sinon
-        else {
-            request.setAttribute("login", loginEntered);
-            request.setAttribute("password", passwordEntered);
-            // Redirection vers la page Home.jsp
-            getServletContext().getRequestDispatcher("/Home.jsp")
-                    .forward(request, response);
-        }
+        /* Stockage du formulaire et du bean dans l'objet request */
+        request.setAttribute( ATT_FORM, form );
+        request.setAttribute( ATT_USER, utilisateur );
+
+        this.getServletContext().getRequestDispatcher( VUE ).forward( request, response );
     }
-
 }

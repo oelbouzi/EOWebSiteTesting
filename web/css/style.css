@@ -27,7 +27,7 @@ header i {
 body {
   font-family: 'Source Sans Pro', sans-serif;
   color: white;
-  background: rgb(40, 70, 102) url('../img/back-ground.jpg.jpg') no-repeat center center;
+  background: rgb(40, 70, 102) url('../img/back-ground.jpg') no-repeat center center;
   font-weight: 300;
 }
 body ::-webkit-input-placeholder {
@@ -289,3 +289,12 @@ Hero
 header i {
   margin-left: 5px
 }
+
+/*==============================================================================
+Login
+==============================================================================*/
+.barre-login { background-color:#FFF; height:30px; line-height:30px; font-family:"Raleway", arial, sans-serif; font-size:13px; color:#414141}
+.barre-login a { float:right; text-align:right}
+.barre-login a:hover { color: #636363
+}
+.barre-login a.compte { width:130px; padding-right:20px;}

@@ -12,13 +12,14 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
+
 /**
  * Created by oussama.elbouzi on 07/06/2015.
  */
 @WebServlet(name = "Signup")
 public class Signup extends HttpServlet {
-    public static final String ATT_USER = "User";
-    public static final String ATT_FORM = "forms";
+    public static final String ATT_USER = "user";
+    public static final String ATT_FORM = "form";
     public static final String VUE = "/WEB-INF/signup.jsp";
 
 
@@ -33,11 +34,11 @@ public class Signup extends HttpServlet {
         InscriptionForm form = new InscriptionForm();
 
         /* Appel au traitement et à la validation de la requête, et récupération du bean en résultant */
-        User utilisateur = form.inscrireUtilisateur( request );
+        User user = form.inscrireUtilisateur( request );
 
         /* Stockage du formulaire et du bean dans l'objet request */
         request.setAttribute( ATT_FORM, form );
-        request.setAttribute( ATT_USER, utilisateur );
+        request.setAttribute( ATT_USER, user );
 
         this.getServletContext().getRequestDispatcher( VUE ).forward( request, response );
     }

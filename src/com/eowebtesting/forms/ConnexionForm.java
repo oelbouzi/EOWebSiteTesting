@@ -1,21 +1,20 @@
 package com.eowebtesting.forms;
 
-
-import com.eowebtesting.beans.User;
+/**
+ * Created by oussama.elbouzi on 09/06/2015.
+ */
 
 import java.util.HashMap;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by oussama.elbouzi on 08/06/2015.
- */
-public class InscriptionForm {
+import com.eowebtesting.beans.User;
+
+public final class ConnexionForm {
     private static final String CHAMP_EMAIL  = "email";
     private static final String CHAMP_PASS   = "password";
-    private static final String CHAMP_CONF   = "confirmation";
-    private static final String CHAMP_NOM    = "nom";
+
     private String              resultat;
     private Map<String, String> erreurs      = new HashMap<String, String>();
 
@@ -27,14 +26,14 @@ public class InscriptionForm {
         return erreurs;
     }
 
-    public User inscrireUtilisateur( HttpServletRequest request ) {
+    public User connecterUtilisateur( HttpServletRequest request ) {
+        /* Récupération des champs du formulaire */
         String email = getValeurChamp( request, CHAMP_EMAIL );
         String password = getValeurChamp( request, CHAMP_PASS );
-        String confirmation = getValeurChamp( request, CHAMP_CONF );
-        String nom = getValeurChamp( request, CHAMP_NOM );
 
         User utilisateur = new User();
 
+        /* Validation du champ email. */
         try {
             validationEmail( email );
         } catch ( Exception e ) {
@@ -42,57 +41,43 @@ public class InscriptionForm {
         }
         utilisateur.setEmail( email );
 
+        /* Validation du champ mot de passe. */
         try {
-            validationPassword(password, confirmation);
+            validationPassword(password);
         } catch ( Exception e ) {
             setErreur( CHAMP_PASS, e.getMessage() );
-            setErreur( CHAMP_CONF, null );
         }
         utilisateur.setPassword(password);
 
-        try {
-            validationNom( nom );
-        } catch ( Exception e ) {
-            setErreur( CHAMP_NOM, e.getMessage() );
-        }
-        utilisateur.setName(nom);
-
+        /* Initialisation du résultat global de la validation. */
         if ( erreurs.isEmpty() ) {
-            resultat = "Successful registration.";
+            resultat = "Successful connexion.";
         } else {
-            resultat = "Failed registration.";
+            resultat = "Failed connexion.";
         }
 
         return utilisateur;
     }
 
-
-
+    /**
+     * Valide l'adresse email saisie.
+     */
     private void validationEmail( String email ) throws Exception {
-        if ( email != null ) {
-            if ( !email.matches( "([^.@]+)(\\.[^.@]+)*@([^.@]+\\.)+([^.@]+)" ) ) {
-                throw new Exception( "Please enter a valid email." );
-            }
-        } else {
-            throw new Exception( "Please enter an email." );
+        if ( email != null && !email.matches( "([^.@]+)(\\.[^.@]+)*@([^.@]+\\.)+([^.@]+)" ) ) {
+            throw new Exception( "Please enter a valid email." );
         }
     }
 
-    private void validationPassword( String password, String confirmation ) throws Exception {
-        if ( password != null && confirmation != null ) {
-            if ( !password.equals( confirmation ) ) {
-                throw new Exception( "Entered passwords are different, thank you to enter them again." );
-            } else if ( password.length() < 3 ) {
+    /**
+     * Valide le mot de passe saisi.
+     */
+    private void validationPassword( String password ) throws Exception {
+        if ( password != null ) {
+            if ( password.length() < 3 ) {
                 throw new Exception( "Passwords must contain at least 3 characters." );
             }
         } else {
-            throw new Exception( "Please enter and confirm your password." );
-        }
-    }
-
-    private void validationNom( String nom ) throws Exception {
-        if ( nom != null && nom.length() < 3 ) {
-            throw new Exception( "The username must contain at least 3 characters." );
+            throw new Exception( "Please enter your password." );
         }
     }
 
@@ -112,7 +97,7 @@ public class InscriptionForm {
         if ( valeur == null || valeur.trim().length() == 0 ) {
             return null;
         } else {
-            return valeur.trim();
+            return valeur;
         }
     }
 }
