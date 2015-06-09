@@ -18,37 +18,55 @@
 </head>
 <body>
 <div class="wrapper" >
-<form method="post" action="Signup">
+
   <div class="container">
-    <h1>Sign up</h1>
+    <form method="post" action="Signup">
 
-    <input type="email" id="email" name="email" value="<c:out value="${param.email}"/>" maxlength="60" placeholder="Email"/>
-    <span class="erreur">${form.erreurs['email']}</span>
-    <br />
+      <h1>Sign up</h1>
 
-
-    <input type="password" id="password" name="password" maxlength="20" placeholder="Password" />
-    <span class="erreur">${form.erreurs['password']}</span>
-    <br />
+      <input type="email" id="email" name="email" value="<c:out value="${param.email}"/>" maxlength="60" placeholder="Email"/>
+      <span class="erreur">${form.erreurs['email']}</span>
+      <br />
 
 
-    <input type="password" id="confirmation" name="confirmation" maxlength="20" placeholder="Password confirmation"/>
-    <span class="erreur">${form.erreurs['confirmation']}</span>
-    <br />
+      <input type="password" id="password" name="password" maxlength="20" placeholder="Password" />
+      <span class="erreur">${form.erreurs['password']}</span>
+      <br />
 
 
-    <input type="text" id="name" name="name"  value="<c:out value="${param.name}"/>" maxlength="20" placeholder="Username"/>
+      <input type="password" id="confirmation" name="confirmation" maxlength="20" placeholder="Password confirmation"/>
+      <span class="erreur">${form.erreurs['confirmation']}</span>
+      <br />
 
-    <span class="erreur">${form.erreurs['name']}</span>
-    <br />
 
-    <button type="submit" value="Inscription" class="sansLabel" name="Valider">Inscription</button>
+      <input type="text" id="name" name="name"  value="<c:out value="${param.name}"/>" maxlength="20" placeholder="Username"/>
 
-    <p class="${empty form.erreurs ? 'succes' : 'erreur'}">${form.resultat}</p>
+      <span class="erreur">${form.erreurs['name']}</span>
+      <br />
 
-    <br />
-    </div>
-</form>
+      <button type="submit" value="Inscription" class="sansLabel" name="Valider">Inscription</button>
+
+      <p class="${empty form.erreurs ? 'succes' : 'erreur'}">${form.resultat}</p>
+
+      <br />
+    </form>
   </div>
+
+  <ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
+<!-- Scripts -->
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="js/index.js"></script>
 </body>
 </html>
