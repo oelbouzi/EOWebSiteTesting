@@ -1,4 +1,4 @@
-package com.eowebtesting;
+package com.eowebtesting.servlets;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

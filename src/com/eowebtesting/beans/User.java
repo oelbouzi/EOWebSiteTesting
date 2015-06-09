@@ -1,4 +1,4 @@
-package com.oewebtesting.beans;
+package com.eowebtesting.beans;
 
 /**
  * Created by oussama.elbouzi on 08/06/2015.
@@ -12,6 +12,7 @@ public class User {
         public void setEmail(String email) {
             this.email = email;
         }
+
         public String getEmail() {
             return email;
         }
@@ -19,6 +20,7 @@ public class User {
         public void setPassword(String motDePasse) {
             this.password = motDePasse;
         }
+
         public String getPassword() {
             return password;
         }
@@ -26,6 +28,7 @@ public class User {
         public void setName(String nom) {
             this.name = nom;
         }
+
         public String getName() {
             return name;
         }
