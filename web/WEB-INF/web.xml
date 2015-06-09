@@ -25,6 +25,15 @@
         <url-pattern>/Login</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>Logout</servlet-name>
+        <servlet-class>com.eowebtesting.servlets.Logout</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Logout</servlet-name>
+        <url-pattern>/Logout</url-pattern>
+    </servlet-mapping>
+
 
     <servlet>
         <servlet-name>Gegogo</servlet-name>
