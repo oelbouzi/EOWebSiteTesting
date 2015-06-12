@@ -3,10 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
-    <session-config>
+    <!--<session-config>
         <session-timeout>1</session-timeout>
-    </session-config>
+    </session-config> -->
 
+
+    <listener>
+        <listener-class>com.eowebtesting.config.InitialisationDaoFactory</listener-class>
+    </listener>
 
 
     <filter>
@@ -17,11 +21,6 @@
         <filter-name>RestrictionFilter</filter-name>
         <url-pattern>/Fonc-Test/*</url-pattern>
     </filter-mapping>
-
-
-
-
-
 
 
 
