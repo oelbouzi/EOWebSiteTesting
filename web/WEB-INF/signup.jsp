@@ -15,9 +15,10 @@
   <meta charset="UTF-8" />
   <title>Sign Up</title>
   <link type="text/css" rel="stylesheet" href="css/signupstyle.css" />
+  <link type="text/css" rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-<div class="wrapper" >
+<div class="wrapperr" >
 
   <div class="container">
     <form method="post" action="Signup">
@@ -67,6 +68,6 @@
 </div>
 <!-- Scripts -->
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script src="js/index.js"></script>
+<script src="/js/index.js"></script>
 </body>
 </html>
